@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bar nav ul li{
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    
+}
+.bar nav{
+    background: rgb(223, 125, 125);
+    text-decoration: none;
+}
+.bar nav ul li:hover{
+    background: white;
+}
+.h{
+    
+    width: 100%;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    clear: right;
+
+}
+.h #a{
+    float: right;
+    margin: 10px 10px 10px 10px;
+    width: 40%;
+    height: 400px;
+    box-sizing: border-box;
+    box-shadow: 0 0 30px 0;
+    text-align: center;
+    font-size: 30px;
+    overflow: auto;
+   
+
+}
+.h #b{
+    margin: 5px 5px 10px 5px;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+
+}
+.h #a img{
+    width: 100%;
+    height: 392px;
+    clear: both;
+}
+#about{
+    margin: 10px;
+    padding: 10px;
+}
+.about #x{
+    text-align: left;
+    margin: 10px;
+    padding: 20px;
+}
+footer{
+    background: gray;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
